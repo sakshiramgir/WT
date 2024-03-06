@@ -1,0 +1,6 @@
+db.phpMyAdminSQL Dump -- version 4.8.1 -- https://www.phpmyadmin.net/ -- -- Host: 127.0.0.1 -- Generation Time: Sep 06, 2018 at 09:14 AM -- Server version: 10.1.33-MariaDB -- PHP Version: 7.2.6  SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO".find({
+ "hpMyAdmin SQL Dump -- version 4.8.1 -- https://www.phpmyadmin.net/ -- -- Host: 127.0.0.1 -- Generation Time: Sep 06, 2018 at 09:14 AM -- Server version: 10.1.33-MariaDB -- PHP Version: 7.2.6  SET SQL_MODE " :  "NO_AUTO_VALUE_ON_ZERO"
+},{
+   "": 1
+}
+);
